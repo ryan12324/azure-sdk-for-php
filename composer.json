@@ -21,7 +21,7 @@
     },
     "replace": {
         "microsoft/windowsazure":"v0.5.7"
-    }  
+    }, 
     "require-dev": {
         "mikey179/vfsStream": "^1.6",
         "phpunit/phpunit": "^4.8.35",
